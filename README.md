@@ -1,10 +1,27 @@
 # pc-cheat-sheet
 
 
+
 # PC Setup Tips
+
+
 
 ## General
 - Fans are easier to replace than water cooling if something is broken. Also it is hard to detected what is broken at water coolings. Also there is no big difference between water and air cooling.
+
+
+# Keyboard
+
+## Best in slot
+- Corsair K100 AIR
+
+
+
+
+
+<br><br>
+<br><br>
+
 
 
 
