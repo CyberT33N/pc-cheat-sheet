@@ -8,6 +8,20 @@
 
 
 
+
+
+<br><br>
+<br><br>
+
+# Graphic Card
+
+## Best in Slot
+
+### Private PC
+RTX 4090 - Choose Gigabyte for RBG in fans
+
+
+
 <br><br>
 <br><br>
 
