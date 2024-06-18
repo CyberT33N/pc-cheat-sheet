@@ -18,6 +18,20 @@
 
 
 
+<br><br>
+<br><br>
+
+# RAM
+
+## Best in slot
+- corsair vengance has nice rbg
+
+
+
+
+
+
+
 
 <br><br>
 <br><br>
