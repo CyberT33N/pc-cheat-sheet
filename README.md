@@ -8,6 +8,11 @@
 
 
 
+## Netzteil
+
+### Corsairs
+- rmx ist besser als rme. und am besten ist professionel series
+
 
 
 <br><br>
