@@ -32,6 +32,13 @@
 
 
 
+
+
+
+
+
+
+
 <br><br>
 <br><br>
 
@@ -44,6 +51,9 @@ RTX 4090 - Choose Gigabyte for RBG in fans
 
 
 
+
+
+
 <br><br>
 <br><br>
 
@@ -51,6 +61,11 @@ RTX 4090 - Choose Gigabyte for RBG in fans
 ## Fans
 - Fans should be on the top (GPU priority setup)
 - Airflow is better for cooling. This means at the front should be fans
+
+### Best in slot
+- CORSAIR ICUE LINK QX RGB
+
+
 
 
 
