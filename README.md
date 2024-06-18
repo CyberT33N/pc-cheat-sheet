@@ -18,6 +18,24 @@
 
 
 
+
+<br><br>
+<br><br>
+
+
+
+
+# ssd
+
+## best in slot
+
+- samsung 990 pro
+
+
+
+
+
+
 <br><br>
 <br><br>
 
